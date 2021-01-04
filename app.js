@@ -49,3 +49,13 @@ io.on("connection", function(socket){
 server.listen(3000, function(){
   console.log("listening on *:3000");
 });
+
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var d = c+d+c+d;
+	return d;
+}
