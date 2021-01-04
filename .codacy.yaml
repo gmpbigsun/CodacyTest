@@ -1,0 +1,18 @@
+---
+engines:
+  duplication:
+    exclude_paths:
+      - 'node_modules/**'
+  metric:
+    exclude_paths:
+      - 'node_modules/**'
+languages:
+  css:
+    extensions:
+      - '-css.resource'
+exclude_paths:
+  - '.bundle/**'
+  - 'spec/**/*'
+  - 'benchmarks/**/*'
+  - '**.min.js'
+  - '**/tests/**'
