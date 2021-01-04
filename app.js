@@ -49,6 +49,17 @@ io.on("connection", function(socket){
 server.listen(3000, function(){
   console.log("listening on *:3000");
 });
+
+// trigger complexity
+function complexity1( a,  b, c, d, e, f, g, h, i,j,k,l){
+	return a+b+c+d+e+f+g+h+i+j+k+l;
+}
+
+function complexity2( a,  b, c, d, e, f, g, h, i,j,k,l){
+	return a-b-c-d-e-f-g-h-i-j-k-l;
+}
+
+// trigger duplication
 //test
 function duplicate1( a,  b){
 	var c = a+b+a+b;
@@ -65,27 +76,27 @@ function duplicate3( c,  d){
 	return e;
 }
 
-function duplicate3( c,  d){
+function duplicate4( c,  d){
 	var e = c+d+c+d;
 	return e;
 }
 //test
-function duplicate1( a,  b){
+function duplicate5( a,  b){
 	var c = a+b+a+b;
 	return c;
 }
 
-function duplicate2( c,  d){
+function duplicate6( c,  d){
 	var e = c+d+c+d;
 	return e;
 }
 
-function duplicate3( c,  d){
+function duplicate7( c,  d){
 	var e = c+d+c+d;
 	return e;
 }
 
-function duplicate3( c,  d){
+function duplicate8( c,  d){
 	var e = c+d+c+d;
 	return e;
 }//test
@@ -94,397 +105,69 @@ function duplicate1( a,  b){
 	return c;
 }
 
-function duplicate2( c,  d){
+function duplicate9( c,  d){
 	var e = c+d+c+d;
 	return e;
 }
 
-function duplicate3( c,  d){
+function duplicate10( c,  d){
 	var e = c+d+c+d;
 	return e;
 }
 
-function duplicate3( c,  d){
+function duplicate11( c,  d){
 	var e = c+d+c+d;
 	return e;
 }//test
-function duplicate1( a,  b){
+function duplicate12( a,  b){
 	var c = a+b+a+b;
 	return c;
 }
 
-function duplicate2( c,  d){
+function duplicate13( c,  d){
 	var e = c+d+c+d;
 	return e;
 }
 
-function duplicate3( c,  d){
+function duplicate14( c,  d){
 	var e = c+d+c+d;
 	return e;
 }
 
-function duplicate3( c,  d){
+function duplicate15( c,  d){
 	var e = c+d+c+d;
 	return e;
 }//test
-function duplicate1( a,  b){
+function duplicate16( a,  b){
 	var c = a+b+a+b;
 	return c;
 }
 
-function duplicate2( c,  d){
+function duplicate17( c,  d){
 	var e = c+d+c+d;
 	return e;
 }
 
-function duplicate3( c,  d){
+function duplicate18( c,  d){
 	var e = c+d+c+d;
 	return e;
 }
 
-function duplicate3( c,  d){
+function duplicate19( c,  d){
 	var e = c+d+c+d;
 	return e;
 }//test
-function duplicate1( a,  b){
+function duplicate20( a,  b){
 	var c = a+b+a+b;
 	return c;
 }
 
-function duplicate2( c,  d){
+function duplicate21( c,  d){
 	var e = c+d+c+d;
 	return e;
 }
 
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}//test
-function duplicate1( a,  b){
-	var c = a+b+a+b;
-	return c;
-}
-
-function duplicate2( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}//test
-function duplicate1( a,  b){
-	var c = a+b+a+b;
-	return c;
-}
-
-function duplicate2( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}//test
-function duplicate1( a,  b){
-	var c = a+b+a+b;
-	return c;
-}
-
-function duplicate2( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}//test
-function duplicate1( a,  b){
-	var c = a+b+a+b;
-	return c;
-}
-
-function duplicate2( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}//test
-function duplicate1( a,  b){
-	var c = a+b+a+b;
-	return c;
-}
-
-function duplicate2( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}//test
-function duplicate1( a,  b){
-	var c = a+b+a+b;
-	return c;
-}
-
-function duplicate2( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}//test
-function duplicate1( a,  b){
-	var c = a+b+a+b;
-	return c;
-}
-
-function duplicate2( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}//test
-function duplicate1( a,  b){
-	var c = a+b+a+b;
-	return c;
-}
-
-function duplicate2( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}//test
-function duplicate1( a,  b){
-	var c = a+b+a+b;
-	return c;
-}
-
-function duplicate2( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}//test
-function duplicate1( a,  b){
-	var c = a+b+a+b;
-	return c;
-}
-
-function duplicate2( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}//test
-function duplicate1( a,  b){
-	var c = a+b+a+b;
-	return c;
-}
-
-function duplicate2( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}//test
-function duplicate1( a,  b){
-	var c = a+b+a+b;
-	return c;
-}
-
-function duplicate2( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}//test
-function duplicate1( a,  b){
-	var c = a+b+a+b;
-	return c;
-}
-
-function duplicate2( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}//test
-function duplicate1( a,  b){
-	var c = a+b+a+b;
-	return c;
-}
-
-function duplicate2( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}//test
-function duplicate1( a,  b){
-	var c = a+b+a+b;
-	return c;
-}
-
-function duplicate2( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}//test
-function duplicate1( a,  b){
-	var c = a+b+a+b;
-	return c;
-}
-
-function duplicate2( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}//test
-function duplicate1( a,  b){
-	var c = a+b+a+b;
-	return c;
-}
-
-function duplicate2( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
-	var e = c+d+c+d;
-	return e;
-}
-
-function duplicate3( c,  d){
+function duplicate22( c,  d){
 	var e = c+d+c+d;
 	return e;
 }
