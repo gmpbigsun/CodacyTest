@@ -50,7 +50,7 @@ server.listen(3000, function(){
   console.log("listening on *:3000");
 });
 
-// trigger complexity
+// trigger complexity.
 function complexity1( a,  b, c, d, e, f, g, h, i,j,k,l){
 	return a+b+c+d+e+f+g+h+i+j+k+l;
 }
@@ -99,12 +99,7 @@ function duplicate7( c,  d){
 function duplicate8( c,  d){
 	var e = c+d+c+d;
 	return e;
-}//test
-function duplicate1( a,  b){
-	var c = a+b+a+b;
-	return c;
 }
-
 function duplicate9( c,  d){
 	var e = c+d+c+d;
 	return e;
