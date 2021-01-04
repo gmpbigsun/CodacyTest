@@ -64,3 +64,9 @@ function duplicate3( c,  d){
 	var e = c+d+c+d;
 	return e;
 }
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
