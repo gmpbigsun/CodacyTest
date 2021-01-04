@@ -69,4 +69,422 @@ function duplicate3( c,  d){
 	var e = c+d+c+d;
 	return e;
 }
+//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
 
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
