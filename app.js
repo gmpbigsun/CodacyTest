@@ -56,6 +56,6 @@ function duplicate1( a,  b){
 }
 
 function duplicate2( c,  d){
-	var d = c+d+c+d;
-	return d;
+	var e = c+d+c+d;
+	return e;
 }
