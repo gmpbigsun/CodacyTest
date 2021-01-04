@@ -166,3 +166,120 @@ function duplicate22( c,  d){
 	var e = c+d+c+d;
 	return e;
 }
+
+// trigger complexity.
+function complexity1( a,  b, c, d, e, f, g, h, i,j,k,l){
+	return a+b+c+d+e+f+g+h+i+j+k+l;
+}
+
+function complexity2( a,  b, c, d, e, f, g, h, i,j,k,l){
+	return a-b-c-d-e-f-g-h-i-j-k-l;
+}
+
+// trigger duplication
+//test
+function duplicate1( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate2( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate3( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate4( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+//test
+function duplicate5( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate6( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate7( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate8( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+function duplicate9( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate10( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate11( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate12( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate13( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate14( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate15( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate16( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate17( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate18( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate19( c,  d){
+	var e = c+d+c+d;
+	return e;
+}//test
+function duplicate20( a,  b){
+	var c = a+b+a+b;
+	return c;
+}
+
+function duplicate21( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
+
+function duplicate22( c,  d){
+	var e = c+d+c+d;
+	return e;
+}
