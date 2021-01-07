@@ -50,6 +50,13 @@ server.listen(3000, function(){
   console.log("listening on *:3000");
 });
 
+// trigger quotes
+
+function quotes1() 
+{
+	return "test";
+}
+
 // trigger complexity.
 function complexity1( a,  b, c, d, e, f, g, h, i,j,k,l){
 	return a+b+c+d+e+f+g+h+i+j+k+l;
