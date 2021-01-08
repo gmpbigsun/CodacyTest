@@ -6,7 +6,7 @@
       var userConfirm;
       do {
         userName = prompt('Please enter your user name');
-        userConfirm = confirm('Click "ok" to confirm your username: ' + userName);
+        userConfirm = confirm('Click 'ok' to confirm your username: ' + userName);
         if (userConfirm) {
           socket.emit('join', userName);
         }
